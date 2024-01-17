@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dark mode toggle works 1`] = `
+<div>
+  <header>
+    <img
+      onMouseDown={[Function]}
+      src=""
+      width={23}
+    />
+    <h1>
+      You are the guesser
+    </h1>
+    <div
+      className="battery light"
+      onMouseDown={[Function]}
+    />
+  </header>
+</div>
+`;
+
+exports[`dark mode toggle works 2`] = `
+<div>
+  <header>
+    <img
+      onMouseDown={[Function]}
+      src=""
+      width={23}
+    />
+    <h1>
+      You are the guesser
+    </h1>
+    <div
+      className="battery dark"
+      onMouseDown={[Function]}
+    />
+  </header>
+</div>
+`;
+
+exports[`dark mode toggle works 3`] = `
+<div>
+  <header>
+    <img
+      onMouseDown={[Function]}
+      src=""
+      width={23}
+    />
+    <h1>
+      You are the guesser
+    </h1>
+    <div
+      className="battery dark"
+      onMouseDown={[Function]}
+    />
+  </header>
+</div>
+`;
+
+exports[`dark mode toggle works 4`] = `
+<div>
+  <header>
+    <img
+      onMouseDown={[Function]}
+      src=""
+      width={23}
+    />
+    <h1>
+      You are the guesser
+    </h1>
+    <div
+      className="battery dark"
+      onMouseDown={[Function]}
+    />
+  </header>
+</div>
+`;
+
+exports[`gameInfo close works 1`] = `
+<div>
+  <header>
+    <img
+      onMouseDown={[Function]}
+      src=""
+      width={23}
+    />
+    <h1>
+      You are the guesser
+    </h1>
+    <div
+      className="battery light"
+      onMouseDown={[Function]}
+    />
+  </header>
+  <div
+    id="game-info"
+  >
+    <header>
+      <h1>
+        How to play
+      </h1>
+      <img
+        onMouseDown={[Function]}
+        src=""
+        width={20}
+      />
+    </header>
+    <p>
+      This game is based on the Turing test, where a player (our "guesser") has to figure out which of two other players (our "tricker" and GPT-3 model) is a computer using only their responses to written questions.
+    </p>
+    <section>
+      <h2>
+        Guesser
+      </h2>
+      <p>
+        If you are the guesser, then it's your job to figure out whether p1 or p2 is the computer. Start by sending a text to both players using the input bar and see if you can tell from their responses. After you've exchanged a few texts and you're ready to make your guess, click the "Guess!" button and select the player you think is the computer.
+      </p>
+    </section>
+    <section>
+      <h2>
+        Tricker
+      </h2>
+      <p>
+        If you are trying to trick the guesser, then it's your job to make them think you are the computer. GPT-3 isn't great for these kinds of tasks, so we've given you the advantage of seeing the first part of its response. It's up to you if you want to imitate what GPT-3 is saying, or come up with your own answers.
+      </p>
+    </section>
+    <p>
+      Once the guesser has made their guess, both players will be able to see the results and statistics about their game. Good luck!
+    </p>
+  </div>
+</div>
+`;
+
+exports[`gameInfo close works 2`] = `
+<div>
+  <header>
+    <img
+      onMouseDown={[Function]}
+      src=""
+      width={23}
+    />
+    <h1>
+      You are the guesser
+    </h1>
+    <div
+      className="battery light"
+      onMouseDown={[Function]}
+    />
+  </header>
+</div>
+`;

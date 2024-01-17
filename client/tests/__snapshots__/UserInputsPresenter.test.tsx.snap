@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`input and button disabled on submit 1`] = `
+<div
+  className="guessing-inputs"
+>
+  <form
+    action="#"
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <input
+      disabled={false}
+      name="chat-input"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="Type here..."
+      tabIndex={-1}
+      type="text"
+      value="testing again..."
+    />
+    <button
+      disabled={false}
+      onClick={[Function]}
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`input and button disabled on submit 2`] = `
+<div
+  className="guessing-inputs"
+>
+  <form
+    action="#"
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <input
+      disabled={true}
+      name="chat-input"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="Type here..."
+      tabIndex={-1}
+      type="text"
+      value=""
+    />
+    <button
+      disabled={true}
+      onClick={[Function]}
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`input text updates 1`] = `
+<div
+  className="guessing-inputs"
+>
+  <form
+    action="#"
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <input
+      disabled={false}
+      name="chat-input"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="Type here..."
+      tabIndex={-1}
+      type="text"
+      value=""
+    />
+    <button
+      disabled={false}
+      onClick={[Function]}
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`input text updates 2`] = `
+<div
+  className="guessing-inputs"
+>
+  <form
+    action="#"
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <input
+      disabled={false}
+      name="chat-input"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="Type here..."
+      tabIndex={-1}
+      type="text"
+      value="testing again..."
+    />
+    <button
+      disabled={false}
+      onClick={[Function]}
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`submit button works 1`] = `
+<div
+  className="guessing-inputs"
+>
+  <form
+    action="#"
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <input
+      disabled={true}
+      name="chat-input"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="Type here..."
+      tabIndex={-1}
+      type="text"
+      value=""
+    />
+    <button
+      disabled={true}
+      onClick={[Function]}
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`submit button works 2`] = `
+<div
+  className="guessing-inputs"
+>
+  <form
+    action="#"
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <input
+      disabled={true}
+      name="chat-input"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="Type here..."
+      tabIndex={-1}
+      type="text"
+      value="testing..."
+    />
+    <button
+      disabled={true}
+      onClick={[Function]}
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;

@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`player chat hover and click effects work 1`] = `
+<div
+  className="chat-window"
+  style={
+    {
+      "opacity": 0,
+      "transform": " translateY(-20px)",
+    }
+  }
+>
+  <h2>
+    p1
+  </h2>
+  <ul
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+  />
+</div>
+`;
+
+exports[`player chat hover and click effects work 2`] = `
+<div
+  className="chat-window"
+  style={
+    {
+      "opacity": 0,
+      "transform": " translateY(-20px)",
+    }
+  }
+>
+  <h2>
+    p1 is the machine
+  </h2>
+  <ul
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+  />
+</div>
+`;
+
+exports[`player chat hover and click effects work 3`] = `
+<div
+  className="chat-window"
+  style={
+    {
+      "opacity": 0,
+      "transform": " translateY(-20px)",
+    }
+  }
+>
+  <h2>
+    p1
+  </h2>
+  <ul
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+  />
+</div>
+`;
+
+exports[`player chat hover and click effects work 4`] = `
+<div
+  className="chat-window"
+  style={
+    {
+      "opacity": 0,
+      "transform": " translateY(-20px)",
+    }
+  }
+>
+  <h2>
+    p1
+  </h2>
+  <ul
+    onClick={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+  />
+</div>
+`;
